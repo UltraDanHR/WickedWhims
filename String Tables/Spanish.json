@@ -7,178 +7,178 @@
     },
     {
       "Key": "0xF0842A22",
-      "Value": "Window Peeping NPC Sims Spawn Notification",
+      "Value": "Notificación de Sims NPC mirones",
       "Source": "Public",
       "Original": "Window Peeping NPC Sims Spawn Notification",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xC16D8C87",
-      "Value": "Check to display a notification when peeping Sim visits the lot.",
+      "Value": "Márcalo para que muestre una notificación cuando un Sim mirón visite el solar",
       "Source": "Public",
       "Original": "Check to display a notification when peeping Sim visits the lot.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB56340D4",
-      "Value": "It appears that a peeping Sim has visited this lot...",
+      "Value": "Parece que un Sim mirón ha visitado este solar...",
       "Source": "Public",
       "Original": "It appears that a peeping Sim has visited this lot...",
       "Status": "Unchanged"
     },
     {
       "Key": "0x8238694A",
-      "Value": "Dormir sin ropa",
+      "Value": "Desnudarse al dormir",
       "Source": "Public",
       "Original": "Naked Sleeping",
       "Status": "Changed"
     },
     {
       "Key": "0xD221F2E2",
-      "Value": "Check for {0.SimFirstName} to follow Naked Sleeping Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked for sleeping.",
+      "Value": "Márcalo para que {0.SimFirstName} se desnude al dormir.\\nDesmárcalo para que {0.SimFirstName} no se desnude al dormir.",
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to follow Naked Sleeping Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked for sleeping.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xA73000E4",
-      "Value": "Entrenamiento sin ropa",
+      "Value": "Desnudarse al hacer ejercicio",
       "Source": "Public",
       "Original": "Naked Workout",
       "Status": "Changed"
     },
     {
       "Key": "0x808D5824",
-      "Value": "Check for {0.SimFirstName} to follow Naked Workout Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked for workout.",
+      "Value": "Márcalo para que {0.SimFirstName} se desnude al hacer ejercicio.\\nDesmárcalo para que {0.SimFirstName} no se desnude al hacer ejercicio.",
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to follow Naked Workout Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked for workout.",
       "Status": "Unchanged"
     },
     {
       "Key": "0x80C9901B",
-      "Value": "Nadar sin ropa",
+      "Value": "Desnudarse al nadar",
       "Source": "Public",
       "Original": "Naked in Water",
       "Status": "Changed"
     },
     {
       "Key": "0xAFD3031D",
-      "Value": "Check for {0.SimFirstName} to follow Naked in Water Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked in water.",
+      "Value": "Márcalo para que {0.SimFirstName} se desnude al nadar.\\nDesmárcalo para que {0.SimFirstName} no se desnude al nadar.",
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to follow Naked in Water Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked in water.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x9BC88138",
-      "Value": "Desnudos en aguas termales",
+      "Value": "Desnudarse en aguas termales",
       "Source": "Public",
       "Original": "Naked in Onsen Hot Springs",
       "Status": "Changed"
     },
     {
       "Key": "0x8B239369",
-      "Value": "Check for {0.SimFirstName} to follow Naked in Onsen Hot Springs Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked in Onsen Hot Springs.",
+      "Value": "Márcalo para que {0.SimFirstName} se desnude al bañarse en aguas termales.\\nDesmárcalo para que {0.SimFirstName} no se desnude al bañarse en aguas termales.",
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to follow Naked in Onsen Hot Springs Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked in Onsen Hot Springs.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x8211C007",
-      "Value": "Yoga sin ropa",
+      "Value": "Desnudarse en yoga",
       "Source": "Public",
       "Original": "Naked Yoga",
       "Status": "Changed"
     },
     {
       "Key": "0xBD01792E",
-      "Value": "Check for {0.SimFirstName} to follow Naked Yoga Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked for Yoga.",
+      "Value": "Márcalo para que {0.SimFirstName} se desnude al hacer yoga.\\nDesmárcalo para que {0.SimFirstName} no se desnude al hacer yoga.",
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to follow Naked Yoga Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked for Yoga.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xACB6F6C8",
-      "Value": "Masaje sin ropa",
+      "Value": "Desnudarse durante masajes",
       "Source": "Public",
       "Original": "Naked Massage",
       "Status": "Changed"
     },
     {
       "Key": "0xE2FBB7AC",
-      "Value": "Check for {0.SimFirstName} to follow Naked Massage Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked for Massage.",
+      "Value": "Márcalo para que {0.SimFirstName} se desnude durante masajes.\\nDesmárcalo para que {0.SimFirstName} no se desnude durante masajes.",
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to follow Naked Massage Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked for Massage.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x860CF6BF",
-      "Value": "Desnudo después de la toalla de baño",
+      "Value": "Desnudarse después de la toalla de baño",
       "Source": "Public",
       "Original": "Naked After Bath Towel",
       "Status": "Changed"
     },
     {
       "Key": "0xFB6EC11F",
-      "Value": "Check for {0.SimFirstName} to follow Naked After Bath Towel Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked with towel after bath.",
+      "Value": "Márcalo para que {0.SimFirstName} se desnude después de la toalla de baño.\\nDesmárcalo para que {0.SimFirstName} no se desnude después de la toalla de baño.",
       "Source": "Public",
       "Original": "Check for {0.SimFirstName} to follow Naked After Bath Towel Outfit Behavior settings.\\nUncheck for {0.SimFirstName} to not get naked with towel after bath.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xE6265D7B",
-      "Value": "Disallow Autonomous Friendly Socials Inside Protocol",
+      "Value": "No permitir interacciones sociales aútonomas en interior",
       "Source": "Public",
       "Original": "Disallow Autonomous Friendly Socials Inside Protocol",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xFABA8171",
-      "Value": "Sims within this group are prevented from autonomously performing friendly socials towards other Sims inside of this group.",
+      "Value": "Previene que los Sims de este grupo realicen interacciones sociales aútonomas en interior.",
       "Source": "Public",
       "Original": "Sims within this group are prevented from autonomously performing friendly socials towards other Sims inside of this group.",
       "Status": "Unchanged"
     },
     {
       "Key": "0xD4F26952",
-      "Value": "Disallow Autonomous Friendly Socials Outside Protocol",
+      "Value": "No permitir interacciones sociales aútonomas en exterior",
       "Source": "Public",
       "Original": "Disallow Autonomous Friendly Socials Outside Protocol",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0x87517EF8",
-      "Value": "Sims within this group are prevented from autonomously performing friendly socials towards other Sims outside of this group.",
+      "Value": "Previene que los Sims de este grupo realicen interacciones sociales aútonomas en exterior.",
       "Source": "Public",
       "Original": "Sims within this group are prevented from autonomously performing friendly socials towards other Sims outside of this group.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB1C4919F",
-      "Value": "Disallow Autonomous Romantic Socials Inside Protocol",
+      "Value": "No permitir interacciones románticas aútonomas en interior",
       "Source": "Public",
       "Original": "Disallow Autonomous Romantic Socials Inside Protocol",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xD4627B55",
-      "Value": "Sims within this group are prevented from autonomously performing romantic socials towards other Sims inside of this group.",
+      "Value": "Previene que los Sims de este grupo realicen interacciones románticas aútonomas en interior.",
       "Source": "Public",
       "Original": "Sims within this group are prevented from autonomously performing romantic socials towards other Sims inside of this group.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xB90D0FAE",
-      "Value": "Disallow Autonomous Romantic Socials Outside Protocol",
+      "Value": "No permitir interacciones sociales románticas en exterior",
       "Source": "Public",
       "Original": "Disallow Autonomous Romantic Socials Outside Protocol",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xABDF6AC4",
-      "Value": "Sims within this group are prevented from autonomously performing romantic socials towards other Sims outside of this group.",
+      "Value": "Previene que los Sims de este grupo realicen interacciones románticas aútonomas en exterior.",
       "Source": "Public",
       "Original": "Sims within this group are prevented from autonomously performing romantic socials towards other Sims outside of this group.",
-      "Status": "Unchanged"
+      "Status": "Changed"
     },
     {
       "Key": "0xF2921872",
@@ -364,14 +364,14 @@
     },
     {
       "Key": "0xA01AD42F",
-      "Value": "{1.String} is calling...",
+      "Value": "Está llamando {1.String}...",
       "Source": "Patreon",
       "Original": "{1.String} is calling...",
       "Status": "Unchanged"
     },
     {
       "Key": "0xB02A8DE1",
-      "Value": "Hello! Is this {0.SimFirstName}? I'm a representative of {1.String}, we are the most popular exclusive premium porn site in the adult industry! I'm calling with an offer for you to publish a video on our site. We would love to feature you on {1.String}! You will be paid a premium price upfront for exclusive publishing rights to your video. The better the video, the more we will pay! You don't have to agree to anything right now, think about it and then just send us your video when you're ready. I hope we will get to talk again! Bye!",
+      "Value": "Hola, ¿estoy hablando con {0.SimFirstName}? Represento a {1.String}, la página exclusivo de contenido adulto mas popular en la industria. Llamo para con una oferta para publicar un video en nuestra página. Querriamos que aparecieras en {1.String}. Se te pagará una cuota por los derechos de exclusividad de tus videos; a mejor sea el video, mejor pagaremos. No tiene por que aceptar ahora, pienselo y una vez esté list@, mándenos el video. Estamos en contacto.",
       "Source": "Patreon",
       "Original": "Hello! Is this {0.SimFirstName}? I'm a representative of {1.String}, we are the most popular exclusive premium porn site in the adult industry! I'm calling with an offer for you to publish a video on our site. We would love to feature you on {1.String}! You will be paid a premium price upfront for exclusive publishing rights to your video. The better the video, the more we will pay! You don't have to agree to anything right now, think about it and then just send us your video when you're ready. I hope we will get to talk again! Bye!",
       "Status": "Unchanged"
@@ -392,7 +392,7 @@
     },
     {
       "Key": "0xAD0D0E22",
-      "Value": "Actors: {0.String}",
+      "Value": "Actores: {0.String}",
       "Source": "Patreon",
       "Original": "Actors: {0.String}",
       "Status": "Unchanged"
@@ -581,7 +581,7 @@
     },
     {
       "Key": "0x928FE01F",
-      "Value": "SimHub Free (Ad Revenue)",
+      "Value": "SimHub gratis (Ad Revenue)",
       "Source": "Patreon",
       "Original": "SimHub Free (Ad Revenue)",
       "Status": "Unchanged"
@@ -45057,7 +45057,7 @@
     },
     {
       "Key": "0x983E258E",
-      "Value": "Selecciona los elementos que le gustan y no a muchos Sims.",
+      "Value": "Selecciona los elementos que le gustan y no a varios Sims.",
       "Source": "Public",
       "Original": "Select elements liked and disliked by many Sims.",
       "Status": "Changed"
